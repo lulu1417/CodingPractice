@@ -1,6 +1,10 @@
 <?php
- require 'merge.php';
- $res = new Merge;
- $l1 = '1->2->4';
- $l2 = '1->3->4';
- var_dump($res->mergeTwoLists($l1, $l2));
+require 'listNode.php';
+require 'linkedList.php';
+require 'recursion.php';
+$c = new ListNode(3, new ListNode(2, new ListNode(1)));
+    while($c!=null) {
+        echo $c->val."\n";
+        $c= $c->next;
+    }
+    die();
