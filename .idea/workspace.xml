@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c980f03-0138-4798-9b3a-51afd9c381d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverseNumber.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/merge.php" beforeDir="false" afterPath="$PROJECT_DIR$/merge.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/removeDuplicates.php" beforeDir="false" afterPath="$PROJECT_DIR$/removeDuplicates.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/removeElement" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,35 +23,52 @@
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectId" id="1OiH3gwLn4jFPuaNlOoWn2Oqxht" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/桌面/Message-Board" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.reverseNumber.php">
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="reverseNumber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/reverseNumber.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.reverseNumber.php" />
         <item itemvalue="PHP Script.index.php" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -73,6 +89,11 @@
       <workItem from="1564668387577" duration="13826000" />
       <workItem from="1564907889254" duration="6102000" />
       <workItem from="1564970028290" duration="1696000" />
+      <workItem from="1587015224443" duration="1465000" />
+      <workItem from="1587029152187" duration="208000" />
+      <workItem from="1587046386871" duration="3960000" />
+      <workItem from="1587050402103" duration="435000" />
+      <workItem from="1587104865962" duration="1390000" />
     </task>
     <servers />
   </component>
@@ -91,5 +112,57 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="118" key="#reverseNumber.php" timestamp="1587018940446">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="429" y="118" key="#reverseNumber.php/0.23.1440.811@0.23.1440.811" timestamp="1587018940446" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1587106482684">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1587050837593" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1587050375198" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1587026689971" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1587025321303" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1587106482684" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1587106482684">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1587050837592" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1587050375198" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1587026689970" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1587025321303" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1587106482684" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1587106482683">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1587050837592" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1587050375197" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1587026689970" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1587025321302" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1587106482683" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1587106482684">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1587050837593" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1587050375198" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1587026689971" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1587025321303" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1587106482684" />
+    <state x="723" y="354" key="NewPhpFileDialog" timestamp="1587015316561">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="723" y="354" key="NewPhpFileDialog/0.23.1920.981@0.23.1920.981" timestamp="1587015316561" />
+    <state x="532" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1587104866267">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1587050404404" />
+    <state x="532" y="308" key="com.intellij.ide.util.TipDialog/0.23.1920.981@0.23.1920.981" timestamp="1587104866267" />
+    <state x="385" y="158" width="670" height="674" key="search.everywhere.popup" timestamp="1587029179886">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="385" y="158" width="670" height="674" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1587029179886" />
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1587025195327" />
   </component>
 </project>
