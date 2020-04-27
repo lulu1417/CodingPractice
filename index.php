@@ -7,4 +7,4 @@ $c = new ListNode(3, new ListNode(2, new ListNode(1)));
         echo $c->val."\n";
         $c= $c->next;
     }
-    die();
+

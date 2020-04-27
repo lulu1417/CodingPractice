@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c980f03-0138-4798-9b3a-51afd9c381d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/commonPrefix.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewTestFib.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reverseNumber.php" beforeDir="false" afterPath="$PROJECT_DIR$/reverseNumber.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectId" id="1OiH3gwLn4jFPuaNlOoWn2Oqxht" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,8 +40,17 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="PHP Script.reverseNumber.php">
+  <component name="RunManager" selected="PHP Script.commonPrefix.php">
+    <configuration name="commonPrefix.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/commonPrefix.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="fib.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/fib.php">
+      <method v="2" />
+    </configuration>
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="interviewTestFib.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/interviewTestFib.php">
       <method v="2" />
     </configuration>
     <configuration name="reverseNumber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/reverseNumber.php">
@@ -51,8 +63,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.reverseNumber.php" />
+        <item itemvalue="PHP Script.commonPrefix.php" />
+        <item itemvalue="PHP Script.interviewTestFib.php" />
+        <item itemvalue="PHP Script.fib.php" />
         <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="PHP Script.reverseNumber.php" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +106,13 @@
       <workItem from="1587029152187" duration="208000" />
       <workItem from="1587046386871" duration="3960000" />
       <workItem from="1587050402103" duration="435000" />
-      <workItem from="1587104865962" duration="2646000" />
+      <workItem from="1587104865962" duration="2666000" />
+      <workItem from="1587110626436" duration="212000" />
+      <workItem from="1587523013772" duration="1516000" />
+      <workItem from="1587545723550" duration="924000" />
+      <workItem from="1587641038955" duration="731000" />
+      <workItem from="1587700797122" duration="512000" />
+      <workItem from="1587959729483" duration="4316000" />
     </task>
     <servers />
   </component>
@@ -112,50 +133,59 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="396" y="23" key="#PHP" timestamp="1587523034875">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="396" y="23" key="#PHP/0.23.1440.801@0.23.1440.801" timestamp="1587523034875" />
+    <state x="429" y="118" key="#index.php" timestamp="1587523035962">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="429" y="118" key="#index.php/0.23.1440.801@0.23.1440.801" timestamp="1587523035962" />
     <state x="429" y="118" key="#reverseNumber.php" timestamp="1587018940446">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="429" y="118" key="#reverseNumber.php/0.23.1440.811@0.23.1440.811" timestamp="1587018940446" />
-    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1587107642558">
-      <screen x="0" y="23" width="1920" height="981" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1587988299743">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1587050837593" />
-    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1587050375198" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1587988299743" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1587641860280" />
     <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1587026689971" />
     <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1587025321303" />
     <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1587107642558" />
-    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1587107642556">
-      <screen x="0" y="23" width="1920" height="981" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1587988299742">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1587050837592" />
-    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1587050375198" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1587988299742" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1587641860279" />
     <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1587026689970" />
     <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1587025321303" />
     <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1587107642556" />
-    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1587107642556">
-      <screen x="0" y="23" width="1920" height="981" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1587988299741">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1587050837592" />
-    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1587050375197" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1587988299741" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1587641860279" />
     <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1587026689970" />
     <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1587025321302" />
     <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1587107642556" />
-    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1587107642557">
-      <screen x="0" y="23" width="1920" height="981" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1587988299742">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1587050837593" />
-    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1587050375198" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1587988299742" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1587641860280" />
     <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1587026689971" />
     <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1587025321303" />
     <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1587107642557" />
-    <state x="723" y="354" key="NewPhpFileDialog" timestamp="1587015316561">
-      <screen x="0" y="23" width="1920" height="981" />
+    <state x="542" y="293" key="NewPhpFileDialog" timestamp="1587978241398">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
+    <state x="542" y="293" key="NewPhpFileDialog/0.23.1440.801@0.23.1440.801" timestamp="1587978241398" />
     <state x="723" y="354" key="NewPhpFileDialog/0.23.1920.981@0.23.1920.981" timestamp="1587015316561" />
-    <state x="532" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1587104866267">
-      <screen x="0" y="23" width="1920" height="981" />
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587978182404">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="399" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1587050404404" />
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1587978182404" />
     <state x="532" y="308" key="com.intellij.ide.util.TipDialog/0.23.1920.981@0.23.1920.981" timestamp="1587104866267" />
     <state x="385" y="158" width="670" height="674" key="search.everywhere.popup" timestamp="1587029179886">
       <screen x="0" y="23" width="1440" height="808" />
