@@ -1,9 +1,8 @@
 <?php
 class LinkedList
-{ //$l1 = 1, 2, 4 ; $l2 = 1, 3, 4
+{
 
     function mergeTwoLists($l1, $l2) {
-        $newNode = new ListNode();
         if($l1 === NULL) return $l2;
         if($l2 === NULL) return $l1;
 

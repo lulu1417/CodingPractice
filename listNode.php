@@ -1,8 +1,12 @@
 <?php
-class ListNode {
+
+class ListNode
+{
     public $val;
     public $next = NULL;
-    public function __construct(int $val,ListNode $node=null) { // =null -> default value, if !parameter, then set as null
+
+    public function __construct(int $val, ListNode $node = null)
+    {
         $this->val = $val;
         $this->next = $node;
     }
